@@ -1,0 +1,38 @@
+.main-title {
+  margin-bottom: 24px;
+}
+
+fieldset {
+  width: 360px;
+  margin: 0 auto;
+  border-color: #989898;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+input {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #989898;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  border-color: #989898;
+}
+
+button[type='submit'] {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 360px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #6c8cff;
+  color: #fff;
+}
